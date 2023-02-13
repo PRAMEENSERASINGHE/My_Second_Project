@@ -5,5 +5,6 @@ public class Main {
 
         System.out.println("Hello_world!");
         System.out.println("New_Hello_world!");
+        System.out.println("connect with jenkin");
     }
 }
